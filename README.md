@@ -34,4 +34,4 @@ The focus was to develop a small tests set to evaluate the approach to the probl
 * **ProjectTestsReports** folder contains the results of the test Procedures for each test run.
 
 ## Contributing
-Requests and Explanations are welcome :)
+Any **requests** are welcome, **explanations** will be provided :)
